@@ -1,6 +1,7 @@
-# sebar
+# Flutter Signup Login Page
 
-A new Flutter application.
+A simple gradient Signup Login Page built with Flutter
+You can use this code for free. Any suggestion is appreciated.
 
 ## Getting Started
 
