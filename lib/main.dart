@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
 
     return new MaterialApp(
       title: 'Flutter Signup Login Page',
+      debugShowCheckedModeBanner: false,
       theme: new ThemeData(
         primarySwatch: Colors.blue,
       ),
