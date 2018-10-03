@@ -19,7 +19,7 @@ class _LoginPageState extends State<LoginPage> {
           gradient: new LinearGradient(
               begin: Alignment.topRight,
               end: Alignment.bottomLeft,
-              colors: <Color>[Color(0XFF00C6C0), Color(0XFF32ABF6)]
+              colors: <Color>[Colors.purple, Colors.blueAccent]
           ),
         ),
         child: Column(
@@ -29,7 +29,7 @@ class _LoginPageState extends State<LoginPage> {
             Container(
               height: 60.0,
               child: Text(
-                'SeBar',
+                'MyApp',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 55.0,
